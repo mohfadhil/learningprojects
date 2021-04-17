@@ -15,4 +15,7 @@
 3- #بايثون
 اكيد تحتاج تكون عندك اساسيات لغة 
 
+Project1 : https://github.com/mohfadhil/learningprojects/blob/6a4b1ca2712214c5c4df16ac57df1585dfa52b0a/project1.py
+
+
 
